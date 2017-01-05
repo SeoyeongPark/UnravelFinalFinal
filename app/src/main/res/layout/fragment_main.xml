@@ -14,35 +14,22 @@
         android:adjustViewBounds="true"
         android:layout_alignParentBottom="true"
         android:layout_alignParentTop="true"
-        android:layout_alignParentEnd="true" />
-
-    <android.support.design.widget.FloatingActionButton
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:clickable="true"
-        app:fabSize="mini"
-        app:srcCompat="@android:drawable/ic_input_add"
-        android:id="@+id/floatingActionButton"
-        app:backgroundTint="@color/colorAccent"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="197dp"
-        android:tint="@null"/>
+        android:layout_alignParentEnd="true"
+        />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/add_new_trip"
         android:padding="8dp"
-        android:textColor="#4DA6FF"
-        android:background="@null"
+        android:textColor="@color/cardview_light_background"
+        android:background="?android:attr/colorAccent"
 
         android:id="@+id/main_button"
         android:textSize="22sp"
         android:textAllCaps="false"
-        android:layout_below="@+id/floatingActionButton"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="14dp" />
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
 
 
 </RelativeLayout>

@@ -1,35 +1,35 @@
 {
   "project_info": {
-    "project_number": "825181236847",
-    "firebase_url": "https://unravel-75c47.firebaseio.com",
-    "project_id": "unravel-75c47",
-    "storage_bucket": "unravel-75c47.appspot.com"
+    "project_number": "1030084323759",
+    "firebase_url": "https://unravelplease.firebaseio.com",
+    "project_id": "unravelplease",
+    "storage_bucket": "unravelplease.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:825181236847:android:bbd3a03c9f43bd7c",
+        "mobilesdk_app_id": "1:1030084323759:android:1547202988ed22bb",
         "android_client_info": {
-          "package_name": "com.example.apple.navigate"
+          "package_name": "com.example.unravel.test"
         }
       },
       "oauth_client": [
         {
-          "client_id": "825181236847-cgj54f81nnv34dpa15982gflmj2pvvel.apps.googleusercontent.com",
+          "client_id": "1030084323759-rieepb076j3oeshnuh6tujtj4hgbms9m.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.apple.navigate",
-            "certificate_hash": "632D09CC211034E2E7997F969499DEB5E54ACB7B"
+            "package_name": "com.example.unravel.test",
+            "certificate_hash": "1B21CB9AB4590DA81A8CE01125E18320BA231CEB"
           }
         },
         {
-          "client_id": "825181236847-5smu9j5tiljf6ga7pffiee1qf8m16tko.apps.googleusercontent.com",
+          "client_id": "1030084323759-qtkfj84sloamscmjhnjnta2cm8d0i7it.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBmPYbzKduzQ4YxzRScO1pDhdUhZIs4Elo"
+          "current_key": "AIzaSyAwz52pjSOUHxoNeOMGO5GhoASNKyfDMmA"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "825181236847-5smu9j5tiljf6ga7pffiee1qf8m16tko.apps.googleusercontent.com",
+              "client_id": "1030084323759-qtkfj84sloamscmjhnjnta2cm8d0i7it.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

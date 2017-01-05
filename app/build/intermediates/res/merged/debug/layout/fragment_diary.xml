@@ -6,11 +6,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
 
-    tools:context="com.example.apple.navigate.DiaryFragment"
+    tools:context="com.example.unravel.test.DiaryFragment"
     android:paddingTop="55dp"
     android:paddingLeft="15dp"
     android:paddingRight="15dp"
-    android:background = "#FFFFFF">
+    >
 
 
     <EditText

@@ -1,18 +1,30 @@
 [
     {
-        "merged": "C:\\Users\\user\\Desktop\\UnravelProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
-        "source": "C:\\Users\\user\\Desktop\\UnravelProject2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\seoye\\Desktop\\CS\\CSE219\\Android\\UnravelProjectFinalFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\seoye\\Desktop\\CS\\CSE219\\Android\\UnravelProjectFinalFinal\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\UnravelProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher2.png",
-        "source": "C:\\Users\\user\\Desktop\\UnravelProject2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher2.png"
+        "merged": "C:\\Users\\seoye\\Desktop\\CS\\CSE219\\Android\\UnravelProjectFinalFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_share_white_24dp.png",
+        "source": "C:\\Users\\seoye\\Desktop\\CS\\CSE219\\Android\\UnravelProjectFinalFinal\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_share_white_24dp.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\UnravelProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_profile.png",
-        "source": "C:\\Users\\user\\Desktop\\UnravelProject2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_profile.png"
+        "merged": "C:\\Users\\seoye\\Desktop\\CS\\CSE219\\Android\\UnravelProjectFinalFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\profilepic.png",
+        "source": "C:\\Users\\seoye\\Desktop\\CS\\CSE219\\Android\\UnravelProjectFinalFinal\\app\\src\\main\\res\\mipmap-xxxhdpi\\profilepic.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\UnravelProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\profilepic.png",
-        "source": "C:\\Users\\user\\Desktop\\UnravelProject2\\app\\src\\main\\res\\mipmap-xxxhdpi\\profilepic.png"
+        "merged": "C:\\Users\\seoye\\Desktop\\CS\\CSE219\\Android\\UnravelProjectFinalFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_profile.png",
+        "source": "C:\\Users\\seoye\\Desktop\\CS\\CSE219\\Android\\UnravelProjectFinalFinal\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\seoye\\Desktop\\CS\\CSE219\\Android\\UnravelProjectFinalFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_add_circle_outline_white_24dp.png",
+        "source": "C:\\Users\\seoye\\Desktop\\CS\\CSE219\\Android\\UnravelProjectFinalFinal\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_add_circle_outline_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\seoye\\Desktop\\CS\\CSE219\\Android\\UnravelProjectFinalFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_delete_forever_white_24dp.png",
+        "source": "C:\\Users\\seoye\\Desktop\\CS\\CSE219\\Android\\UnravelProjectFinalFinal\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_delete_forever_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\seoye\\Desktop\\CS\\CSE219\\Android\\UnravelProjectFinalFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher2.png",
+        "source": "C:\\Users\\seoye\\Desktop\\CS\\CSE219\\Android\\UnravelProjectFinalFinal\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher2.png"
     }
 ]

@@ -1,0 +1,66 @@
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.example.unravel.test.Seoul"
+        android:orientation="vertical"
+        android:paddingTop="60dp"
+        android:weightSum="1"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp">
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:srcCompat="@drawable/seoul"
+            android:id="@+id/imageView6"
+            android:scaleType="fitXY"
+            android:alpha=".9"
+            android:layout_weight="0.10"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            />
+
+        <TextView
+            android:text="Seoul is the capital and the largest city by population in the republic of Korea. Seoul Capital Area has five UNESCO World Heritage Sites: Changdeok Palace, Hwaseong Fortress, Jongmyo Shrine, Namhansanseong, and Royal Tombs of the Joseon Dynasty. And Seoul is surrounded by Mountain Bukhan which is the world's most visited national park. "
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView14"
+            android:layout_weight="0.10"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            tools:inputType="textMultiLine"
+            android:textSize="15sp"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:srcCompat="@drawable/seoul2"
+            android:id="@+id/imageView7"
+            android:scaleType="fitXY"
+            android:alpha=".9"
+            android:layout_weight="0.10"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            />
+
+        <TextView
+            android:text="In seoul, visitors can easily explore on foot. The Transportation system is easy recognize and follow. Seoul has both historical and urban sites in harmony. Korea has all four seasons evenly distributed."
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView15"
+            android:layout_weight="0.10"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            tools:inputType="textMultiLine"
+            android:textSize="15sp"/>
+    </LinearLayout>
+</ScrollView>
+

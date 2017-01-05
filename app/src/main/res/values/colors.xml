@@ -37,4 +37,10 @@
         <item>@color/dot_dark_screen4</item>
         <item>@color/dot_dark_screen5</item>
     </array>
+
+    <color name="colorPrimaryNight">#3f51b5</color>
+    <color name="colorPrimaryDarkNight">#303f9f</color>
+    <color name="colorAccentNight">#83afda</color>
+    <color name="textColorPrimaryNight">#FFFFFF</color>
+    <color name="colorBackgroundNight">#000000</color>
 </resources>

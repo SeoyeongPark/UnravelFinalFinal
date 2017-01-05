@@ -3,687 +3,723 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.0\jars\classes.jar"
+        jar="C:\Users\seoye\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="3a05b3852a6aec21ea0a6ea4d284ee69c04c55c4">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.0_396ddbe276662fd5b471893ea62b6975b005307b\classes.dex" />
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_85f7ead734b9afa2cb87a1ff3319e61d6eb99982\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.0\jars\classes.jar"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="985be85104f6d0c5c5e51e7b7e60d8883a98ac64">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.0_e4c1646300cdd7feafa5e9d19ad408b942a95d9a\classes.dex" />
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_8c0dea5d2ae161c9c6bcbb206e4e37c390683995\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.0\jars\classes.jar"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="849da156edbc1201f5cd6e237524187442a62af3">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.0_f9239a20b4987c0f083fcdc6b8ea2c37281eb2f4\classes.dex" />
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_25f78797b5b2f9ee6ba13f980c176f2a3b927719\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.0\jars\classes.jar"
+        jar="C:\Users\seoye\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="543835521cf4f867223d9f2a4b19ce32f95b0573">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.0_25d084da59c6061b513e5ac0b4f64a5f8013cd65\classes.dex" />
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_3cfadb8cd0bad39646051dbc4cc97488c63f70d6\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.0\jars\classes.jar"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="fb0229499e600b485a276d4e31161a3ae31c144c">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.0_8a4aec98d532d2775a33442adc13cbbb4f573c2d\classes.dex" />
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_bc1f38d53ab1a8ec8f9d800f9cdd65d91d130f65\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.1\27293c440d2085cde1d859528aff6e7d3b6ae40\retrofit-2.0.1.jar"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="027293c440d2085cde1d859528aff6e7d3b6ae40">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.1_43d79f54a0901ebe35d8860b9dd1b97158147d2e\classes.dex" />
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_715edde884e6c4f1b522e77933fe3ca40512b687\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="777627dcaf0eaacd4212220e8f2d0c63def91774">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.0_d05cb1510991a1ba3b99b349ed9a56cb906a0dcc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="2b410ae1fda134f470276365f4b7f846269e0d23">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.0_3c4aec38138e76f504efd1fa089f7e7a98e132e3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="73fe8ab7f76e41d0cabbc4fa3399557de52efb2d">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.0_b4aa94d6fa26e4ee5bf92ad1919913f07d7a60a3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="5fd86107cb2d2fa2d099250066cc664cdcfd476f">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.0_0fed03cac2aa93c769d091ad8892cae6923000c1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="a383a583c346ce8ea5767d77f4fe58e1d8e5f221">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.0_03632bdc2ee5be8b5eb2dee4ae45133ff8cd6165\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.1_c8170208a1f64d9e159b6f10fd65867add9501f0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="741f550aea73f64507fc60a799fefd5a2ea2bef5">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.0_e4d3d7d36573d879e9a96361361f49154b1f3b6b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_ccebb9545c5da1b53c1ebc75ec0fe8296f782e8e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_608a653794f00dc0539f9286ec665ae29790126e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="a18773c279bde7e49e09f621aea613685c108c7f">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.0_2aa00cc757b004dcdfb745e1b9eafa83399b990a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_e7a4bffc883666be4acd4cbd019f34b5aa67e786\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_4ece3f0db9ed452314270b3d55363cc9b46a74a9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_6e28b908349375bfe08c2c44b7732bea43d955f7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_fb860311564fc11aeb3b4a7ec29faf0a14863b6d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_6612d113a35a74913ac779bf957487fc15ed6f91\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c7ed3fd9d5a9687980dac6c504abd91ad3dfa238">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.0_b551e4463c40cd787c2f216912c38f6d182c26e4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_b5deedcc76b2fdf613c2468973bdc4c0228bbf92\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="3347c3e7056fabc88bdbd8fdae65ddf2b674d977">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.0_f5b345952d9fdccec6089a0ea71fbe2f5b3ec8ae\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.1\2780d858273ce1bb90f6b12e1ef0d40f7741fca\converter-gson-2.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="02780d858273ce1bb90f6b12e1ef0d40f7741fca">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.1_5861375cc17af5222f1f013f6f6276888ad48cb0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="444a220fadbdf260b3aa47c6e858c5d1e645170f">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.0_6d6374db1f858b7ac99e5be7ac730fab7323a87c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_5bb1585f53ed9a7fbca1146044512e27de589957\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="f36cf060b7f0d881ea6449c254ab8a570a3dcdbe">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.0_c33d1155ac40e7d6a559b9c5fb93dae615a90b13\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="8ca4ffc4d90754f1f2438dfc3e94006cfcc6be98">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.0_64b8b05881961830c58a297457c3b0851d9b1b02\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_927ba8265517379ab2f498221cd60db1388cbaeb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_a438029eb9284f9f36995840f62c021329b8deb7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="75dbc3537bc912d077b3db2f5ac72d5b43644b2c">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.0_9e23b170a50a93c63b2b6657dd502319179c37bf\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="6cc495f5634b8aaae30a37317ba687830da545cf">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.0_e393810add7be67c98cc13b80fba8b2a44985376\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="ae809d521d9f7da5337a82edd64eea23a76e788d">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.0_5e6ba316e25bc45f6ca228b4e86e7a140066a942\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="73a2c740a76aa4ba46168ed8bcdee1966e48a589">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.0_f4687371ee384be2fc7b6ac0f225a85841644293\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b7518f2d3fce2ebec6a0bb8d2cd97eebc9f119df">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.0_8ddf41cd8405b2bc619eae1538c3458525d4310e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="80338dde5f9d8e20efe2f2a44bc424aefe4eb8f4">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.0_f440f261d4648c9a5bca0e7f67d4267c34c6fbc4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_19668d6f21be00af64194548e79f12ca61870bcc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_9cc3a58732f00e3d555656e03c3177d6bd9eb937\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="5ac49e5d5aea8772c8018ce2888145f04c5fe7ca">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.0_33478425fac3b6987f19e3f6aa1fe6558170f17b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.3.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-1.3.0_7042ff9719b58afe7636ce560604093653dfb063\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="6b7e0a45e8139272f3fe2a19d4e7b1122c769550">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.0_370f4f048215dbfdf8bd72eea2e75b23d6d3dd64\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_391502682977a058615ae7f867c68a8d23913695\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="8e2fd2b87dc79fc6c8d70fda1247ac6f4a878a28">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.0_d9177edb61636ea677feeaa80dcea139571c06dd\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="932350448ea536c5dfbc45697951f31d34e50f1f">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.0_b22fa7bbf81b1dd6465f97361c9e7dfd2c69f474\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="147c3e6b95aa3d1e83705b056777ef865d272969">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.0_d15422b9652db46b3ef0f1a7f0d8744e82003748\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="4701f9f79c8a00564912b21b0cb0cec3f51a7d23">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.0_ea0163e28352490503878e99180c2729b7865cad\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_016fb16434c999657551c94841601c792b75ec81\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="3660967212b89195e628670db181ed86e3307569">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.0_239da822463f2adb1507cc2c63f8cf267fbc8a45\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_61b0bce1e18d194b072e1c1fe316575b24811c6c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="a61005619e43f203768ff3f224137def6f029e50">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.0_ea26cb45d8158cdfadb0d560d47e971b71349dea\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="41e39c7ee84e63ae18df6c6ccb96d196996add4c">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.0_982d4bafedb0e38df15037f000cf97283346c451\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_08b5ca0e4d3d6b0fc7e846adc06ec06b5e690286\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b6da2f018d86f6a525c64fffb0bcc2c22cb9ed12\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c2376d0ec8dbe85d3446cad64905c0395fbe220e">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.0_8150aff4a6280531f23d6cc35161c59a1bcc9d8a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="cf60a8cd2f896314e40b2f1a9788e91e228c3671">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.0_c8a623ee707e5e9674296f76a375a9e99e32b4d5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f731ec0bf608c8528ad17f81d12acd15681005a5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="1fabe27d7a7b7ef3fe077c6499cd0a4f08e1c427">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.0_5219428af0b1c6267bb578e1c28312e2560bdf1b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="ca730ac2d72056445bf68998cec6b6b2cf4d179e">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.0_b94edc902954874dba4beb52a7a7fe58e0aa56b6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="ddfa80ca49f1334afea1f9aa93148be73f73cd0f">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.0_2f181ede8436b4077f6434674b615004e8785e4b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0e2bf5e85132c8bfed05a87b71352918815e0205">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.0_2004b5f53d50d3579e0d55a78384038dc4ab5eed\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="3861e0294c61bf4bf968a1da1607497345dca283">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.0_265bd40c88127da00b17950678f91288e2af66ed\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9391936129a61e30fb7d64480283531f00c5f940">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b10fd1fb387f63b6a83eea1694f2ba43e0e742e5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_0103f83adf5d37a9d29f1aa525ed237be18f660e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="2e61c07206f0568b34939e2dc0e2bc75251648dc">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.0_39efee6c1bd6c3035f0cb0660de3ad4f5a4d9e6f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="2dba5dda86bf7a3aba328fb1b1a43d3f876190cc">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_266c291734ff53dffca34b60db63a1b5a6c262ff\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="58cd8dc3bbf63b37f0e107033257467511130e0f">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.0_2fd1cba73caf77b1fb538cd08c16b0eab69addc8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="8bb364f67ec2eba2356872b2b4ddfe8aada2d5ac">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.0_57f4e2add4db9b63c533bcb351121a6c5de3c1f3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="813f70b551ce5206ad15dfe6e2f5b2d86e08a723">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.0_d6dfcb7a71ed088c9f8296515c64218179778ac2\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="76863814ca24fea5a0510373d15d3ccddebc09f1">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.0_6c9da3b16e18c1186e0f437d94cbc0df6afff854\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="ce6e6e59212db0893fc36e5b579cf319a84aade8">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.0_cf927eeb617636831829710be80aa853810b0172\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_2c3b8b56701be1e34bde76f889b66c0ca17fe757\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b1c926efda90fbf653889fea922eacc527de8486">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.0_09bdad930d08da59001a6580b55547bb7aeeec65\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0d70f7c486d9d65ceabd0039667ae4d53bf0ae7c">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.0_1a6ba06f4549ef2caca6e4253b97df995bada86a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="22031b047b12904b888549ba36c0c30d83b1aea1">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.0_386d37d71d43a387fb1f6c1fffb69c5f43188528\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="734e80dffea7bd76c18ae256822a124c30d85850">
-        <dex dex="C:\Users\user\Desktop\UnravelProject2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_03d2a4c7f5765f2606a27e6583143b39065dc311\classes.dex" />
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_0f197a05dede1da8fcb416e862ddde8bd68ab755\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-database\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b0b0f4f99cf68e748dd123ad553738e4284d4749">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-database-1.0.1_c933500e8d5a572db8f347f1bd4ca37ad2bfd6aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_ac3a07c69eed57ff9a1995913a715ff3de657137\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc633a7979eaecddab364ff5b031cf2d1e786c8">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a550a1a84acf3b3c8c606d24d2e4c557442fea28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_0b756e079fbfe048dee195066b4654a85d2659f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_fee8a74121420360b6fa8b4b08b729f27361f721\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_6ab5631c0d04ead1e80fb4c1342a58dda811d4a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_e756666a42d3ff6577ff7f0fc01f658ae06b4dba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_19a633cc29ed4da7301f6dd2ce1020a2bf275318\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_bd4f2299f960e25aebfd1fd590fc20138cd35c5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_7684221636aff30550809cdd961b21bf2ca41dd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_269a4a8259cfdbadc64e04f8124ca086ca1951ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_9dfcc3a54bf12387863b0e591387af3f35f8d9f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_90782d54c73911be9e5a48fbd13b3f2f7e03a27f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.1_f719ef45934058ca96fc647bdf1801e4a475401a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_f00f6bc5bc6251686c9dc0a835a73783ee14507c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_06e31be632c62d6c493c2a63f7d2ff345dae909b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_133f5ccc0a983d31d376227e7faff318641b7c5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_52eae93fd5cf11d0cb5161e9dc28c7bc84079ebd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_ffb2914ed4618c06ed9cc40e01f3bcdaa33fb65b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_d1dd8621dc60644155ffe761ae88369f4ccb3802\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_cabc0b243a3d85a3b5aea425f8a819945a3bc715\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_d4671900dd71e53d7d76c199c4bf44b95db3ae5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_9a90f7a6af212d62aa3121528c8fb667a45a1414\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_19724bbb04d9430c0a0bfa1895e13d9e9b625094\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_93cb23095891986b680d20038aa7ac673d682eca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_4d9508e8ad5b7f2b851f4433bff558b3e02dced3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_e44bd98e52936e0e4a1242d9f8159183ebe58e80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_9ef547e91067d7d534241c3175d6050e04b684a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_b87585b901fa6cc23989071be810fe05f8525836\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_0d0f0e753538b714e99209cd423810528fdbc9d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_ec1e15c716f59296d701f8bb5e91246ff3b119b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.1\27293c440d2085cde1d859528aff6e7d3b6ae40\retrofit-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="027293c440d2085cde1d859528aff6e7d3b6ae40">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.1_07cea42ba5c0d4ae72e9e13654754a343424107d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_237ead26d9b9ae05d1fffcf0b94449b7361c98e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_944d0c174e593d85354cd6e929cd9c99358ca337\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_dec1079506d8724d93bed13845690a8b1adfc487\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_aa84ae86af0696a828ab3f15902bf2c5d01d774f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_357999007e95f2dbcff70404d05d59ea216afbd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_e967c909ea74af6b7f74348308adf76a75b940bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_9c4495d43324dbd846d3f22d7a944366add407ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_856eda36bd5c8b445dd7fd0abd8ea94d6bcd8ae8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_8dca926956415ef1b16f9f24b7f9f54486decc6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_8084176eff1f259239c1c13e6ba5c1dd440a2c8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_860432f8f563d0fe526fba8c9bce382512e1934a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_ef0f065fe4be67ff2b7b4fe3805c92f9c7369f1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_6a6b576ad332c1a78e6e6521dce1313c8ef0dce1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_01f2c8a3ad956caf05246fdd9981bff99559bd9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="643476eaa264e08630bd9a03f8d95ac7f3e2a6ed">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4f552701d1e371103cbdeb47e62642f09de6603e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_7d856330e25ab030e3de94cdbc13848b7afcfaae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_0316a86aef637fac535d24acd07389d8870d59b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_a39acef3ae0495f0eb2637c8349b4d01ab512746\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\.idea\libraries\android-query-full.0.26.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4055bed8ed6f6aa573fa3e7d979c66101c48e182">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-query-full.0.26.7_176ddd4b60da6002c9339d5a47ec6e694d6cf494\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_2ac651f0124b85ce7b5708d7c4c70d55f0cedc15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_bd4beb3f1af220677f736527bdfb6423df55605f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_bbc9f17da1c3b726fbcf45fa4fa8d6b82f13ec15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_a597dacae591677d6887eb4033f98147a6a1fbd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_28203f3c05a033eb9f5d5a2adfe637ea39c459a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_0f16da06ae8b2a8935daba3e073c61c3493f8e37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_22e23cb0ace14c06e61104e205a76c9756d48229\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_49095e0dd5e68c9511d65dee108077077bf59b7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_d9e16b94a3180c3e4b28d71cdd610f569517fc06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_b02a9e72adfd1390cf23eb02918be03652d448f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-1.3.0_9a61ef4f8b900ae62a6bb56c70fad6d869949008\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_2d3007f06cd0d51e5493d29b1e5b5a6815b59645\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_e9071a39aab70d2ac04483eb69c6436b351e95fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_b15f1b0e19563122188d4d1499f790cd23d44520\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_23ef139fa68c2f12261f7a67c70e81d41ba6c83c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_80ef2f377f753dacaa76373cb3fa2625fd3fedb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.1\2780d858273ce1bb90f6b12e1ef0d40f7741fca\converter-gson-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="02780d858273ce1bb90f6b12e1ef0d40f7741fca">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.1_83173a7e6381c8a9b2b4594e82a2ffcb973d11f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_68a4098c8673ba7f8c87c01999da1c991f9c5345\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_ac9af09718e0968c30146475bdb6b457cec5fb16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_39ce8e4ffaa654c6a8904e0a4405a282eec34f07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_8135c4607b0700773e196b444dd0d447db53cdb0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="C:\Users\seoye\Desktop\CS\CSE219\Android\UnravelProjectFinalFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_9a7a8460c8df9729e73212a0b2e1f0d859aed8fe\classes.dex" />
     </item>
 
 </items>

@@ -10,64 +10,56 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.apple.navigate.MainActivity"
-    android:background="@drawable/introimage3">
+    android:background="@drawable/introimage1">
 
-    <TextView
-        android:text="@string/introScreenOne"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/textView"
-        android:fontFamily="serif"
-        android:textAlignment="center"
-        android:paddingTop="200dp"
+    <ImageView
+        android:layout_width="85dp"
+        app:srcCompat="@android:drawable/ic_menu_share"
+        android:id="@+id/imageView"
+        android:layout_marginStart="74dp"
+        android:layout_height="85dp"
+        android:elevation="1dp"
+        android:layout_marginTop="114dp"
         android:layout_alignParentTop="true"
-        android:layout_alignParentStart="true"
-        android:paddingRight="50dp"
-        android:paddingLeft="50dp"
-        android:textSize="24sp"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:text="Let's Unravel"
+        android:layout_height="wrap_content"
+        android:id="@+id/button"
+        android:layout_width="150dp"
+        tools:text="@string/letsunravel"
+        android:background="#40c9a7"
         android:textColor="@android:color/background_light"
-        tools:text="@string/introScreenOne"
-        android:layout_alignParentLeft="true" />
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="46dp" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/SHARE"
-        android:paddingTop="150dp"
-        android:paddingLeft="200dp"
         android:textSize="30sp"
         android:textColor="?android:attr/detailsElementBackground"
         android:fontFamily="serif"
         tools:text="@string/SHARE"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentLeft="true" />
+        android:layout_alignBottom="@+id/imageView"
+        android:layout_toEndOf="@+id/imageView" />
 
-    <ImageView
-        android:layout_width="100dp"
-        app:srcCompat="@android:drawable/ic_menu_share"
-        android:id="@+id/imageView"
-        android:layout_marginStart="84dp"
-        android:layout_height="100dp"
-        android:elevation="1dp"
-
-        android:layout_alignParentTop="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginTop="109dp"
-        android:layout_alignParentLeft="true"
-        android:layout_marginLeft="84dp" />
-
-    <Button
-        android:text="Let's Unravel"
+    <TextView
+        android:text="@string/introScreenOne"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/textView"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="108dp"
-        android:id="@+id/button"
-        android:layout_width="150dp"
-        tools:text="@string/letsunravel"
-        android:background="#40c9a7"
-        android:textColor="@android:color/background_light" />
+        android:id="@+id/textView"
+        android:fontFamily="serif"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:textColor="@color/colorPrimaryDarkNight"
+        tools:text="@string/introScreenOne"
+        android:paddingLeft="50dp"
+        android:paddingRight="50dp"
+        android:layout_centerVertical="true"
+        android:layout_alignParentStart="true" />
 
 
 </RelativeLayout>

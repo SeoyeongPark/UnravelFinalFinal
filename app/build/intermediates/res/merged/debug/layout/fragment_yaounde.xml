@@ -1,0 +1,65 @@
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.unravel.test.Yaounde"
+    android:orientation="vertical"
+    android:paddingTop="60dp"
+    android:weightSum="1"
+    android:layout_marginTop="5dp"
+    android:layout_marginBottom="5dp">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        app:srcCompat="@drawable/yaounde"
+        android:id="@+id/imageView6"
+        android:scaleType="fitXY"
+        android:alpha=".9"
+        android:layout_weight="0.10"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        />
+
+    <TextView
+        android:text="Yaoundé is the capital of Cameroon and also the second largest city in the country after Douala. It is located in the center of Cameroon. The weather is cooler compared to other cities because it is located 750m above sea level. The high-profile central structures in Yaoundé allow people to have relatively higher standard of living than the rest of Cameroon cities. "
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView14"
+        android:layout_weight="0.10"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        tools:inputType="textMultiLine"
+        android:textSize="15sp"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:srcCompat="@drawable/yaounde2"
+            android:id="@+id/imageView7"
+            android:scaleType="fitXY"
+            android:alpha=".9"
+            android:layout_weight="0.10"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            />
+
+        <TextView
+        android:text="In Yaoundé, there is the Musée d'Art Camerounais which is an art museum that provides the art, the history and the culture of Cameroon. There is the Musée Afhemi for more regional artworks. Also, the gallery tours in English can be arranged by calling in advance. The weather is hot throughout the year with a wet season during September to October. "
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView15"
+        android:layout_weight="0.10"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        tools:inputType="textMultiLine"
+        android:textSize="15sp"/>
+</LinearLayout>
+</ScrollView>

@@ -1,0 +1,63 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.unravel.test.Korea">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ImageView
+
+        android:id="@+id/KoreaImage"
+        android:layout_height="200dp"
+        android:layout_width="wrap_content"
+        android:scaleType="fitXY"
+        android:alpha=".90"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        app:srcCompat="@drawable/korea1"
+        android:layout_marginTop="50dp"/>
+
+    <TextView
+        android:text="About South Korea"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/InformationKorea"
+        android:textAppearance="@style/TextAppearance.AppCompat.Widget.Button"
+        android:fontFamily="sans-serif-medium"
+        android:textSize="18sp"
+        android:textColor="@android:color/black"
+        android:layout_marginTop="17dp"
+        android:layout_below="@+id/KoreaImage"
+        android:layout_alignParentStart="true" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dip"
+        android:background="#000000"
+        android:layout_below="@+id/InformationKorea"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="15dp"
+        android:id="@+id/line1"/>
+
+    <TextView
+        android:text="Cities"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="18dp"
+        android:id="@+id/CitiesKorea"
+        android:textAppearance="@style/TextAppearance.AppCompat.Widget.Button"
+        android:layout_below="@+id/line1"
+        android:layout_centerHorizontal="true"
+        android:textSize="18sp"
+        android:textColor="@android:color/black" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dip"
+        android:background="#000000"
+        android:layout_below="@+id/CitiesKorea"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="15dp"
+        android:id="@+id/line2"/>
+</RelativeLayout>

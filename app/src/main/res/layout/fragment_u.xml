@@ -1,0 +1,62 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.example.unravel.test.USA">
+
+    <TextView
+        android:text="About the United States of America"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/InformationUSA"
+        android:textAppearance="@style/TextAppearance.AppCompat.Widget.Button"
+        android:fontFamily="sans-serif-medium"
+        android:textSize="18sp"
+        android:textColor="@android:color/black"
+        android:layout_marginTop="17dp"
+        android:layout_below="@+id/USAImage"
+        android:layout_alignParentStart="true" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dip"
+        android:background="#000000"
+        android:layout_below="@+id/InformationUSA"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="15dp"
+        android:id="@+id/line1"/>
+
+    <TextView
+        android:text="Cities"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="18dp"
+        android:id="@+id/CitiesUSA"
+        android:textAppearance="@style/TextAppearance.AppCompat.Widget.Button"
+        android:layout_below="@+id/line1"
+        android:layout_centerHorizontal="true"
+        android:textSize="18sp"
+        android:textColor="@android:color/black" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dip"
+        android:background="#000000"
+        android:layout_below="@+id/CitiesUSA"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="15dp"
+        android:id="@+id/line2"/>
+
+    <ImageView
+        app:srcCompat= "@drawable/usa1"
+        android:id="@+id/USAImage"
+        android:layout_height="200dp"
+        android:layout_width="wrap_content"
+        android:scaleType="fitXY"
+        android:alpha=".90"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="50dp"/>
+
+</RelativeLayout>

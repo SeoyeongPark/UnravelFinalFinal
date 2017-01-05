@@ -1,0 +1,67 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.example.unravel.test.Cameroon"
+    >
+
+    <TextView
+        android:text="About Cameroon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/InformationCameroon"
+        android:textAppearance="@style/TextAppearance.AppCompat.Widget.Button"
+        android:fontFamily="sans-serif-medium"
+        android:textSize="18sp"
+        android:textColor="@android:color/black"
+        android:layout_marginTop="17dp"
+        android:layout_below="@+id/CameroonImage"
+        android:layout_alignParentStart="true"
+        />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dip"
+        android:background="#000000"
+        android:layout_below="@+id/InformationCameroon"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="15dp"
+        android:id="@+id/line1"/>
+
+    <TextView
+        android:text="Cities"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="18dp"
+        android:id="@+id/CitiesCameroon"
+        android:textAppearance="@style/TextAppearance.AppCompat.Widget.Button"
+        android:layout_below="@+id/line1"
+        android:layout_centerHorizontal="true"
+        android:textSize="18sp"
+        android:textColor="@android:color/black"
+        />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dip"
+        android:background="#000000"
+        android:layout_below="@+id/CitiesCameroon"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="15dp"
+        android:id="@+id/line2"/>
+
+    <ImageView
+        android:id="@+id/CameroonImage"
+        android:layout_height="200dp"
+        android:layout_width="wrap_content"
+        android:scaleType="fitXY"
+        android:alpha=".90"
+        android:layout_marginTop="55dp"
+        app:srcCompat="@drawable/cameroon1"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true" />
+
+
+</RelativeLayout>

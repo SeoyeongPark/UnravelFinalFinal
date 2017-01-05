@@ -1,10 +1,14 @@
 [
     {
-        "merged": "C:\\Users\\user\\Desktop\\UnravelProject2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
-        "source": "C:\\Users\\user\\Desktop\\UnravelProject2\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+        "merged": "C:\\Users\\seoye\\Desktop\\CS\\CSE219\\Android\\UnravelProjectFinalFinal\\app\\build\\intermediates\\res\\merged\\debug\\menu\\single.xml",
+        "source": "C:\\Users\\seoye\\Desktop\\CS\\CSE219\\Android\\UnravelProjectFinalFinal\\app\\src\\main\\res\\menu\\single.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\UnravelProject2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "C:\\Users\\user\\Desktop\\UnravelProject2\\app\\src\\main\\res\\menu\\main.xml"
+        "merged": "C:\\Users\\seoye\\Desktop\\CS\\CSE219\\Android\\UnravelProjectFinalFinal\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\seoye\\Desktop\\CS\\CSE219\\Android\\UnravelProjectFinalFinal\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\seoye\\Desktop\\CS\\CSE219\\Android\\UnravelProjectFinalFinal\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "C:\\Users\\seoye\\Desktop\\CS\\CSE219\\Android\\UnravelProjectFinalFinal\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
     }
 ]
