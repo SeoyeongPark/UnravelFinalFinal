@@ -1,0 +1,65 @@
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.example.unravel.test.NYC"
+        android:orientation="vertical"
+        android:paddingTop="60dp"
+        android:weightSum="1"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp">
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:srcCompat="@drawable/nyc1"
+            android:id="@+id/imageView6"
+            android:scaleType="fitXY"
+            android:alpha=".9"
+            android:layout_weight="0.10"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            />
+
+        <TextView
+            android:text="The City of New York, often called New York City is the most popular city in the United States. New York City used to serve as the capital of the United States from 1785 for 5years. In 20th century, New York City became the city that we recognize today."
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView14"
+            android:layout_weight="0.10"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            tools:inputType="textMultiLine"
+            android:textSize="15sp"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:srcCompat="@drawable/nyc2"
+            android:id="@+id/imageView7"
+            android:scaleType="fitXY"
+            android:alpha=".9"
+            android:layout_weight="0.10"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            />
+
+        <TextView
+            android:text="Although New York City suffered the terrorist attack in 2001, the city still remains strong, having over 40 million tourists annually. "
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView15"
+            android:layout_weight="0.10"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            tools:inputType="textMultiLine"
+            android:textSize="15sp"/>
+    </LinearLayout>
+</ScrollView>
